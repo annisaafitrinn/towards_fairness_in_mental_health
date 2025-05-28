@@ -7,7 +7,7 @@ Clone this repository to your local machine using:
 
 ```bash
 git clone https://github.com/annisaafitrinn/fairness_in_depression_detection.git
-cd your-repo-name
+cd fairness_in_depression_detection
 ```
 
 ## Directory Structure
