@@ -1,6 +1,15 @@
 # Fairness in Depression Detection
 This repository contains code and methods for training and evaluating models on EEG for depression detection task, with a focus on fairness and bias mitigation. The project supports several deep learning architectures and bias mitigation techniques.
 
+## Get Started
+
+Clone this repository to your local machine using:
+
+```bash
+git clone https://github.com/annisaafitrinn/fairness_in_depression_detection.git
+cd your-repo-name
+```
+
 ## Directory Structure
 ```bash
 ├── README.md
